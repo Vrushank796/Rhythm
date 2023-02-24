@@ -1,8 +1,8 @@
 # Rhythm – music app
 
 
-![](img/Group1_Milestone50.png)
-
+<!-- ![](img/Group1_Milestone50.png) -->
+<img src="img/Group1_Milestone50.png" width="100" height="100">
 
 # Final iOS Project
 By: Vrushank Amin & Parth Antala
