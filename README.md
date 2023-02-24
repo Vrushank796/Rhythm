@@ -1,6 +1,7 @@
 # Rhythm – music app
 
-![test](img/Group1_Milestone50.png)
+<div style="width:50px; height:50px">
+![](img/Group1_Milestone50.png)
 
 # Final iOS Project
 By: Vrushank Amin & Parth Antala
@@ -19,7 +20,7 @@ https://developer\.prod\.napster\.com/api/v2\.2
 
 # Authentication:
 
-![test](img/Group1_Milestone51.png)
+![](img/Group1_Milestone51.png)
 
 * In Rhythm\, we are giving users 3 choices for sign in or register\.
 * Facebook Login
