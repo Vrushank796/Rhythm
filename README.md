@@ -21,7 +21,7 @@ https://developer\.prod\.napster\.com/api/v2\.2
 # Authentication:
 
 <!-- ![](img/Group1_Milestone51.png) -->
-<img src="img/Group1_Milestone51.png" width="150" height="600">
+<img src="img/Group1_Milestone51.png" width="400" height="300">
 
 * In Rhythm\, we are giving users 3 choices for sign in or register\.
 * Facebook Login
