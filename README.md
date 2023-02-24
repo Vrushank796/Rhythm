@@ -30,27 +30,32 @@ https://developer\.prod\.napster\.com/api/v2\.2
 
 # Sign up:
 
-![](img/Group1_Milestone52.png)
+<!-- ![](img/Group1_Milestone52.png) -->
+<img src="img/Group1_Milestone52.png" width="250" height="500">
 
 For sign up\, we have implemented firebase sign up method\, user can sign up by email and password
 
 # Guides
 
-![](img/Group1_Milestone53.png)
+<!-- ![](img/Group1_Milestone53.png) -->
+<img src="img/Group1_Milestone53.png" width="250" height="500">
 
 After logging in\, user will see the 3 guide screens which was built using Guide View Controller
 
 # Comments:
 
-![](img/Group1_Milestone54.png)
+<!-- ![](img/Group1_Milestone54.png) -->
+<img src="img/Group1_Milestone54.png" width="250" height="500">
 
 In comments screen\, user can comment about that song and see others comments as well\, we are using firebase realtime database for storing comments\.
 
 # Home Screen:
 
-![](img/Group1_Milestone55.png)
+<!-- ![](img/Group1_Milestone55.png) -->
+<img src="img/Group1_Milestone55.png" width="250" height="500">
 
-![](img/Group1_Milestone56.png)
+<!-- ![](img/Group1_Milestone56.png) -->
+<img src="img/Group1_Milestone56.png" width="250" height="500">
 
 After continuing guide screens\, user will go to home screen which is attached with tab bar controller with all other screens\.
 
@@ -58,19 +63,22 @@ In home screen\, Top songs\, biggest hits and new releases\. User can press more
 
 # Now Playing:
 
-![](img/Group1_Milestone57.png)
+<!-- ![](img/Group1_Milestone57.png) -->
+<img src="img/Group1_Milestone57.png" width="250" height="500">
 
 In Now playing screen\, user will see the nice animated album art and options for shuffle\, next song\, previous song\, play\-pause\, and Comments button\.
 
 # Explore Screen:
 
-![](img/Group1_Milestone58.png)
+<!-- ![](img/Group1_Milestone58.png) -->
+<img src="img/Group1_Milestone58.png" width="250" height="500">
 
 In explore screen user will see collection of genres and new albums and releases\.
 
 # Premium Subscription:
 
-![](img/Group1_Milestone59.png)
+<!-- ![](img/Group1_Milestone59.png) -->
+<img src="img/Group1_Milestone59.png" width="250" height="500">
 
 We are providing users premium version option to subscribe Rhythm Yearly or monthly\.
 
