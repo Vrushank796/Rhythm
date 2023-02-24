@@ -92,5 +92,5 @@ User can see the lyrics in now playing screen
 
 User can make favorites and share with others\.
 
-# Thank you!Q/A
+# Thank you!
 
