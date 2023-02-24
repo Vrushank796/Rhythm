@@ -2,6 +2,7 @@
 
 <div style="width:50px; height:50px">
 ![](img/Group1_Milestone50.png)
+</div>
 
 # Final iOS Project
 By: Vrushank Amin & Parth Antala
