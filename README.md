@@ -10,17 +10,17 @@ By: Vrushank Amin & Parth Antala
 
 <!-- For our final project of iOS app development\, we have build a music app named  __Rhythm\.__ -->
 
-Rhythm is a music streaming application that has been developed for iOS devices using Swift programming language. It allows users to stream their favorite music from Napster API's extensive collection of songs. The app is designed to offer a seamless and enjoyable experience to users who love music and want to listen to their favorite tracks anywhere, anytime.
+Rhythm is a music streaming application that has been developed for IOS devices using the Swift programming language. The application allows users to access a vast library of music from a variety of genres and artists.
 
-The app offers two different login options: users can either sign in using their Google or Facebook accounts. Rhythm has integrated both Google Signin and Facebook Signin features into the app, making it easier for users to quickly sign in and access the app's features.
+The application uses the Napster API, which provides a seamless integration with the Napster music streaming service. This enables Rhythm users to enjoy high-quality audio streaming and a wide range of features such as playlists, favorites, and recommendations.
 
-To ensure secure access to the app and protect user data, Rhythm has integrated Firebase Authentication. This feature adds an extra layer of security to the app, ensuring that only authorized users can access their accounts.
+Rhythm also offers users the ability to sign in to the app using their Google or Facebook accounts. This ensures that the app is easy to use and accessible to users who already have accounts with these social media platforms.
 
-One of the most exciting features of Rhythm is its vast music library, powered by Napster API. This means that users have access to millions of songs from a wide range of genres, including pop, rock, jazz, classical, and more. The app's intuitive interface makes it easy for users to search for their favorite songs and create custom playlists.
+To ensure secure and reliable authentication, Rhythm also employs Firebase Authentication. This feature guarantees that user data is protected and that only authorized users can access their accounts.
 
-In addition to streaming music, Rhythm also offers a range of other features, including the ability to create and share playlists with friends, view song lyrics, and discover new music. The app's recommendation engine suggests new songs based on users' listening history, making it easier for them to discover new artists and tracks.
+The Rhythm app has been designed with Adobe XD wireframes, ensuring a clean and intuitive user interface. Users can easily search for music, create playlists, and discover new songs and artists. The app also offers a feature that allows users to share their favorite songs and playlists with their friends on social media platforms.
 
-Overall, Rhythm is an excellent music streaming app that offers a great user experience, a vast music library, and a range of exciting features. Its integration with Google Signin, Facebook Signin, and Firebase Authentication ensures secure and easy access, while the Napster API provides a vast collection of songs for users to enjoy.
+In summary, Rhythm is a robust and user-friendly music streaming application that provides access to a vast library of music. The app has been developed using the latest technologies such as Napster API, Google Signin, Facebook Signin, Firebase Authentication, and Adobe XD wireframes.
 
 <!-- We used storyboard and Swift to develop this application and for designing we build our wireframes in AdobeXD and exported using Zeplin\.
 
