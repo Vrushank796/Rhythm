@@ -10,9 +10,21 @@ By: Vrushank Amin & Parth Antala
 
 For our final project of iOS app development\, we have build a music app named  __Rhythm\.__
 
-We used storyboard and Swift to develop this application and for designing we build our wireframes in AdobeXD and exported using Zeplin\.
+Rhythm is a music streaming application that has been developed for iOS devices using Swift programming language. It allows users to stream their favorite music from Napster API's extensive collection of songs. The app is designed to offer a seamless and enjoyable experience to users who love music and want to listen to their favorite tracks anywhere, anytime.
 
-We have build this App using Napster API for tracks and all metadata about song and playlists like top songs\, albums\, greatest hits\, new releases etc\.
+The app offers two different login options: users can either sign in using their Google or Facebook accounts. Rhythm has integrated both Google Signin and Facebook Signin features into the app, making it easier for users to quickly sign in and access the app's features.
+
+To ensure secure access to the app and protect user data, Rhythm has integrated Firebase Authentication. This feature adds an extra layer of security to the app, ensuring that only authorized users can access their accounts.
+
+One of the most exciting features of Rhythm is its vast music library, powered by Napster API. This means that users have access to millions of songs from a wide range of genres, including pop, rock, jazz, classical, and more. The app's intuitive interface makes it easy for users to search for their favorite songs and create custom playlists.
+
+In addition to streaming music, Rhythm also offers a range of other features, including the ability to create and share playlists with friends, view song lyrics, and discover new music. The app's recommendation engine suggests new songs based on users' listening history, making it easier for them to discover new artists and tracks.
+
+Overall, Rhythm is an excellent music streaming app that offers a great user experience, a vast music library, and a range of exciting features. Its integration with Google Signin, Facebook Signin, and Firebase Authentication ensures secure and easy access, while the Napster API provides a vast collection of songs for users to enjoy.
+
+<!-- We used storyboard and Swift to develop this application and for designing we build our wireframes in AdobeXD and exported using Zeplin\.
+
+We have build this App using Napster API for tracks and all metadata about song and playlists like top songs\, albums\, greatest hits\, new releases etc\. -->
 
 Napster Documentation:
 
