@@ -18,7 +18,7 @@ Rhythm also offers users the ability to sign in to the app using their Google or
 
 To ensure secure and reliable authentication, Rhythm also employs Firebase Authentication. This feature guarantees that user data is protected and that only authorized users can access their accounts.
 
-The Rhythm app has been designed with Adobe XD wireframes, ensuring a clean and intuitive user interface. Users can easily search for music, create playlists, and discover new songs and artists. The app also offers a feature that allows users to share their favorite songs and playlists with their friends on social media platforms.
+The Rhythm app has been designed with Adobe XD wireframes, ensuring a clean and intuitive user interface. Users can easily search for music, create playlists, and discover new songs and artists. The app also offers a feature that allows users to share their thoughts using comment section.
 
 In summary, Rhythm is a robust and user-friendly music streaming application that provides access to a vast library of music. The app has been developed using the latest technologies such as Napster API, Google Signin, Facebook Signin, Firebase Authentication, and Adobe XD wireframes.
 
