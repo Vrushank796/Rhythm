@@ -1,14 +1,14 @@
-# Rhythm – music app
+# Rhythm – Music Streaming Application
 
 <!-- ![](img/Group1_Milestone50.png) -->
 <img src="img/Group1_Milestone50.png" width="750" height="200">
 
-# Final iOS Project
+<!-- # Final iOS Project -->
 By: Vrushank Amin & Parth Antala
 
 # Introduction:
 
-For our final project of iOS app development\, we have build a music app named  __Rhythm\.__
+<!-- For our final project of iOS app development\, we have build a music app named  __Rhythm\.__ -->
 
 Rhythm is a music streaming application that has been developed for iOS devices using Swift programming language. It allows users to stream their favorite music from Napster API's extensive collection of songs. The app is designed to offer a seamless and enjoyable experience to users who love music and want to listen to their favorite tracks anywhere, anytime.
 
